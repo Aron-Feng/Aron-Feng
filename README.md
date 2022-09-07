@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning program language
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> aaronfeng@163com
+- 📫 How to reach me -> aaronfeng27@outlook.com
 
 <!---
 Aron-Feng/Aron-Feng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
