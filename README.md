@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aron-Feng
 - 👀 I’m interested in learning program language
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on Radar Signal Processing 
 - 📫 How to reach me -> aaronfeng27@outlook.com
 
 <!---
